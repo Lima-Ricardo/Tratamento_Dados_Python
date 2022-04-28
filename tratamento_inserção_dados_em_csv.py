@@ -56,4 +56,4 @@ if __name__ =="__main__":
     except Exception as e :
         print(str(e))
         
-        Copyright ©. Todos os diretos reservados.
+        Copyright © Company Name. All Rights Reserved.
